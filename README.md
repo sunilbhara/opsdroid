@@ -1,7 +1,7 @@
 <h6 align=center>
 <img src="https://github.com/opsdroid/style-guidelines/raw/master/logos/logo-wide-light.png" alt="Opsdroid Logo"/>
 </h6>
-
+//opsdroid is an interesting application
 <h4 align=center>An open source chat-ops bot framework</h4>
 
 <p align=center>
